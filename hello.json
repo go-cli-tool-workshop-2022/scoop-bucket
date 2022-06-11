@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0-dev-1",
+    "version": "0.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/go-cli-tool-workshop-2022/hello/releases/download/v0.1.0-dev-1/hello_v0.1.0-dev-1_windows_amd64.tar.gz",
+            "url": "https://github.com/go-cli-tool-workshop-2022/hello/releases/download/v0.1.0/hello_v0.1.0_windows_amd64.tar.gz",
             "bin": [
                 "hello.exe"
             ],
-            "hash": "9d0fe0d1590f60735012d4f7c0a4b81921514950faaef2a4e36a6b7ab3b103db"
+            "hash": "da24ff74431968fde9a1bbd9af309e845a3b0dced1c3a853d52a5be1a5152863"
         }
     },
     "homepage": "https://github.com/go-cli-tool-workshop-2022/hello",
